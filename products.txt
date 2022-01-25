@@ -1,0 +1,447 @@
+[
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 10 Pay ",
+    "pt": 15,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 5 Pay ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 5 Pay ",
+    "pt": 11,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 5 Pay ",
+    "pt": 12,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 5 Pay ",
+    "pt": 13,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 5 Pay ",
+    "pt": 14,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 5 Pay ",
+    "pt": 15,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 7 Pay ",
+    "pt": 12,
+    "ppt": 7
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 7 Pay ",
+    "pt": 13,
+    "ppt": 7
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 7 Pay ",
+    "pt": 14,
+    "ppt": 7
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- 7 Pay ",
+    "pt": 15,
+    "ppt": 7
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- Regular Pay ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- Regular Pay ",
+    "pt": 11,
+    "ppt": 11
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- Regular Pay ",
+    "pt": 12,
+    "ppt": 12
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- Regular Pay ",
+    "pt": 13,
+    "ppt": 13
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- Regular Pay ",
+    "pt": 14,
+    "ppt": 14
+  },
+  {
+    "planName": " ICICI Prudential Savings Suraksha- Regular Pay ",
+    "pt": 15,
+    "ppt": 15
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 11,
+    "ppt": 5
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 12,
+    "ppt": 5
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 13,
+    "ppt": 5
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 14,
+    "ppt": 5
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 15,
+    "ppt": 5
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 12,
+    "ppt": 7
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 13,
+    "ppt": 7
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 14,
+    "ppt": 7
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 15,
+    "ppt": 7
+  },
+  {
+    "planName": " E21-Future Perfect  ",
+    "pt": 15,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Early Income ",
+    "pt": 11,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Income ",
+    "pt": 11,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Income ",
+    "pt": 11,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Income ",
+    "pt": 11,
+    "ppt": 10
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum ",
+    "pt": 12,
+    "ppt": 5
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum ",
+    "pt": 12,
+    "ppt": 6
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum ",
+    "pt": 12,
+    "ppt": 7
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum ",
+    "pt": 15,
+    "ppt": 7
+  },
+  {
+    "planName": " ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum ",
+    "pt": 15,
+    "ppt": 10
+  },
+  {
+    "planName": " GCAP- 10 Pay ",
+    "pt": 15,
+    "ppt": 10
+  },
+  {
+    "planName": " GCAP- 12 Pay ",
+    "pt": 15,
+    "ppt": 12
+  },
+  {
+    "planName": " GCAP- 5 Pay ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " GCAP- 5 Pay ",
+    "pt": 15,
+    "ppt": 5
+  },
+  {
+    "planName": " GCAP- 7 Pay ",
+    "pt": 10,
+    "ppt": 7
+  },
+  {
+    "planName": " GCAP- 7 Pay ",
+    "pt": 15,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 10 Pay ",
+    "pt": 15,
+    "ppt": 10
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 12 Pay ",
+    "pt": 15,
+    "ppt": 12
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 5 Pay ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 5 Pay ",
+    "pt": 11,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 5 Pay ",
+    "pt": 12,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 5 Pay ",
+    "pt": 13,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 5 Pay ",
+    "pt": 14,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 5 Pay ",
+    "pt": 15,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 7 Pay ",
+    "pt": 10,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 7 Pay ",
+    "pt": 11,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 7 Pay ",
+    "pt": 12,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 7 Pay ",
+    "pt": 13,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 7 Pay ",
+    "pt": 14,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Base Option - 7 Pay ",
+    "pt": 15,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 10 Pay ",
+    "pt": 15,
+    "ppt": 10
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 12 Pay ",
+    "pt": 15,
+    "ppt": 12
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 5 Pay ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 5 Pay ",
+    "pt": 11,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 5 Pay ",
+    "pt": 12,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 5 Pay ",
+    "pt": 13,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 5 Pay ",
+    "pt": 14,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 5 Pay ",
+    "pt": 15,
+    "ppt": 5
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 7 Pay ",
+    "pt": 10,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 7 Pay ",
+    "pt": 11,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 7 Pay ",
+    "pt": 12,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 7 Pay ",
+    "pt": 13,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 7 Pay ",
+    "pt": 14,
+    "ppt": 7
+  },
+  {
+    "planName": " Smart LifeStyle- Family Protection Option - 7 Pay ",
+    "pt": 15,
+    "ppt": 7
+  },
+  {
+    "planName": " Income Builder- Base Option (10 Yrs Payout) ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " Income Builder- Base Option (12 Yrs Payout) ",
+    "pt": 12,
+    "ppt": 12
+  },
+  {
+    "planName": " Income Builder- Base Option (15 Yrs Payout) ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " Income Builder- Base Option (18 Yrs Payout) ",
+    "pt": 12,
+    "ppt": 12
+  },
+  {
+    "planName": " Income Builder- Base Option( 20 Yrs Payout) ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " Income Builder- Secured Income Option (10 Yrs Payout) ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " Income Builder- Secured Income Option (12 Yrs Payout) ",
+    "pt": 12,
+    "ppt": 12
+  },
+  {
+    "planName": " Income Builder- Secured Income Option (15 Yrs Payout) ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " Income Builder- Secured Income Option (18 Yrs Payout) ",
+    "pt": 12,
+    "ppt": 12
+  },
+  {
+    "planName": " Income Builder- Secured Income Option( 20 Yrs Payout) ",
+    "pt": 10,
+    "ppt": 10
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 10,
+    "ppt": 5
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 10,
+    "ppt": 8
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 12,
+    "ppt": 10
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 15,
+    "ppt": 12
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 15,
+    "ppt": 5
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 15,
+    "ppt": 8
+  },
+  {
+    "planName": " Premier Guaranteed Income- Lump Sum ",
+    "pt": 15,
+    "ppt": 10
+  }
+]

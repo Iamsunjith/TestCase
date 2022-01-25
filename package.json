@@ -1,0 +1,20 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.0",
+    "jsonpath": "^1.1.1",
+    "xlsx": "^0.17.4"
+  },
+  "devDependencies": {
+    "node-xlsx": "^0.21.0"
+  }
+}

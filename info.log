@@ -1,0 +1,837 @@
+[
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Income",
+    "PT": 11,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000,
+    "Remarks": "Income payout period - 5 years"
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Income",
+    "PT": 11,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000,
+    "Remarks": "Income payout period - 7 years"
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Income",
+    "PT": 11,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000,
+    "Remarks": "Income payout period - 10 years"
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Early Income",
+    "PT": 11,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum",
+    "PT": 12,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum",
+    "PT": 12,
+    "PPT": 6,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum",
+    "PT": 12,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Pru Guaranteed Income For Tomorrow- Lump-Sum",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 40000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 11,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 40000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 12,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 40000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 13,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 40000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 14,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 40000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 40000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 12,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 13,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 14,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "E21-Future Perfect",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Cash Advantage- 5 Pay",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 5 Pay",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 5 Pay",
+    "PT": 11,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 5 Pay",
+    "PT": 12,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 5 Pay",
+    "PT": 13,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 5 Pay",
+    "PT": 14,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 5 Pay",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 7 Pay",
+    "PT": 12,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 7 Pay",
+    "PT": 13,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 7 Pay",
+    "PT": 14,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 7 Pay",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 18000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- 10 Pay",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- Regular Pay",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- Regular Pay",
+    "PT": 11,
+    "PPT": 11,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- Regular Pay",
+    "PT": 12,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- Regular Pay",
+    "PT": 13,
+    "PPT": 13,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- Regular Pay",
+    "PT": 14,
+    "PPT": 14,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "IPRU",
+    "Product": "ICICI Prudential Savings Suraksha- Regular Pay",
+    "PT": 15,
+    "PPT": 15,
+    "PPT Frequency": "Annual",
+    "Min premium": 12000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 5 Pay",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 5 Pay",
+    "PT": 11,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 5 Pay",
+    "PT": 12,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 5 Pay",
+    "PT": 13,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 5 Pay",
+    "PT": 14,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 5 Pay",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 7 Pay",
+    "PT": 10,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 7 Pay",
+    "PT": 11,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 7 Pay",
+    "PT": 12,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 7 Pay",
+    "PT": 13,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 7 Pay",
+    "PT": 14,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 7 Pay",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 10 Pay",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Base Option - 12 Pay",
+    "PT": 15,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "GCAP- 5 Pay",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 15000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "GCAP- 5 Pay",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 15000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "GCAP- 7 Pay",
+    "PT": 10,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 15000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "GCAP- 7 Pay",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 15000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "GCAP- 10 Pay",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 15000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "GCAP- 12 Pay",
+    "PT": 15,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 15000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 11,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 12,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 13,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 14,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 10,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 11,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 12,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 13,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 14,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 11,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 12,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 13,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 14,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 12,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 13,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 14,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "POS Saral Nivesh",
+    "PT": 15,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 5000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Base Option (10 Yrs Payout)",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Base Option (15 Yrs Payout)",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Secured Income Option (10 Yrs Payout)",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Secured Income Option (15 Yrs Payout)",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Secured Income Option (20 Yrs Payout)",
+    "PT": 10,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Base Option (12 Yrs Payout)",
+    "PT": 12,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Base Option (18 Yrs Payout)",
+    "PT": 12,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Secured Income Option (12 Yrs Payout)",
+    "PT": 12,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Income Builder- Secured Income Option (18 Yrs Payout)",
+    "PT": 12,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 30000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 5 Pay",
+    "PT": 10,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 5 Pay",
+    "PT": 11,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 5 Pay",
+    "PT": 12,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 5 Pay",
+    "PT": 13,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 5 Pay",
+    "PT": 14,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 5 Pay",
+    "PT": 15,
+    "PPT": 5,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 7 Pay",
+    "PT": 10,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 7 Pay",
+    "PT": 11,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 7 Pay",
+    "PT": 12,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 7 Pay",
+    "PT": 13,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 7 Pay",
+    "PT": 14,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 7 Pay",
+    "PT": 15,
+    "PPT": 7,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 10 Pay",
+    "PT": 15,
+    "PPT": 10,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  },
+  {
+    "Insurer": "ETLI",
+    "Product": "Smart LifeStyle- Family Protection Option - 12 Pay",
+    "PT": 15,
+    "PPT": 12,
+    "PPT Frequency": "Annual",
+    "Min premium": 24000
+  }
+]
